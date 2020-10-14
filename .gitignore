@@ -44,4 +44,10 @@ vignettes/*.pdf
 
 raw_data/*
 database/*
-
+*.dta
+*.png
+projects/*.Rdata
+*.dbf
+*.prj
+*.shp
+*.shx
