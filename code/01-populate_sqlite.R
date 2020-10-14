@@ -45,7 +45,6 @@ map(1:nrow(code.ref),  #all=1:nrow(code.ref)
       
       
       #################################################
-      #Use custom function to read in data
       #start loop over files
       map(file.list,
           function(x){

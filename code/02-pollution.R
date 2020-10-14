@@ -3,7 +3,7 @@
 
 #######################################################
 #######################################################
-db <- dbConnect(SQLite(), dbname="build/cache/epa.sqlite")
+db <- dbConnect(SQLite(), dbname="database/epa.sqlite")
 
 
 
